@@ -1,0 +1,18 @@
+﻿  <a name="ancora" id="ancora"></a>
+
+    Depois o link para ir  ancora será assim:
+
+    <a href="#ancora">ir   ancora </a>
+
+    Se quiseres usar uma ancora noutra página fazes assim:
+
+    <a href="ancora.html#ancora">ir   ancora de outra página </a>
+
+
+
+
+
+
+TXT
+
+<textarea rows="7" cols="40" maxlength="1160">TEXTO AQUI</textarea>
